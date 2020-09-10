@@ -4,4 +4,4 @@
 *bolt
 _dölt_
 __bolt
-**bolt*
+*bolt*
